@@ -1,5 +1,5 @@
-# DeepVision MultiClass
+# Representation Learning Based MultiClass
 
-Deep Learing Multiclass image classifiation.
+Representation
 
 ## Installation
